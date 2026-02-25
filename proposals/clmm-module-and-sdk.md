@@ -1,7 +1,7 @@
 ---
 title: Canton CLMM Module & SDK
-author: blackthornlover
-status: Draft
+author: blackthornlover <h@bitdynamics.me>, Zhe Li <zhe@bitdynamics.me>, Srikanth Yeleswarapu <srikanth@bitdynamics.me>
+status: Submitted
 created: 2026-02-24
 ---
 
