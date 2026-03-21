@@ -1,6 +1,6 @@
 ## Development Fund Proposal: Canton Cross-Domain Messaging (CCDM) -- Native Message Capsule Reference Implementation
 
-**Author:** blackthornlover <h@bitdynamics.me>, Zhe Li <zhe@bitdynamics.me>, Srikanth Yeleswarapu <srikanth@bitdynamics.me>
+**Author:** blackthornlover <h@bitdynamics.me>, Ze Li <zhe@bitdynamics.me>, Srikanth <srikanth@bitdynamics.me>
 **Implementing Entity:** Bitdynamics
 **Status:** Submitted
 **Created:** 2026-03-19
