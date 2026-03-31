@@ -1,6 +1,6 @@
 ## Development Fund Proposal: Canton Reference Data Oracle Standard (CRDOS) — Privacy-Aware On-Ledger Reference Data for Identified Participants
 
-**Author:** blackthornlover <h@bitdynamics.me>, Zhe Li <zhe@bitdynamics.me>, Srikanth <srikanth@bitdynamics.me>
+**Author:** blackthornlover (Bitdynamics)
 **Implementing Entity:** Bitdynamics
 **Status:** Submitted
 **Created:** 2026-03-31
