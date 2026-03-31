@@ -1,6 +1,6 @@
 ## Development Fund Proposal: Canton Observability Standard (COS) — Metrics, Traces, and Alerts Reference Specification
 
-**Author:** blackthornlover <h@bitdynamics.me>, Zhe Li <zhe@bitdynamics.me>, Srikanth <srikanth@bitdynamics.me>
+**Author:** blackthornlover (Bitdynamics)
 **Implementing Entity:** Bitdynamics
 **Status:** Submitted
 **Created:** 2026-03-25
